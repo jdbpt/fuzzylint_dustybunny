@@ -15,8 +15,8 @@
   - C# scripts and Visual Studio for editing
 - Autodesk Maya (Student Edition)
 - Audacity
-  - for sound recording and editing
+  - For sound recording and editing
 - Adobe Photoshop (Student Edition)
-  - for texture creation and UI screens
+  - For texture creation and UI screens
 - Google docs for Game Design Documentation
 - HacknPlan for kanban and task tracking
