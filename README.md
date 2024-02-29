@@ -1,4 +1,4 @@
-![Main Menu png from the Lint Fuzzy to Dust Bunny game that shows a grayish-purple small piece of dryer lint (named Lint Fuzzy) that appears off center to the left of the picture, on a gradient light blue background, with the words "Lint Fuzzy to Dust Bunny" in white cursive/serif text above the piece of lint](./MainMenuRepositoryBanner512.png)
+![Main Menu png from the Lint Fuzzy to Dust Bunny game that shows a grayish-purple small piece of dryer lint (named Lint Fuzzy) that appears off center to the left of the picture, on a gradient light blue background, with the words "Lint Fuzzy to Dust Bunny" in white cursive/serif text above the piece of lint](./MainMenuRepositoryBanner.png)
 # fuzzylint_dustybunny
 ## *Lint Fuzzy to Dust Bunny* Code Repository 
 - C# Scripts only for *Lint Fuzzy to Dust Bunny* game available on Itch.io: https://jocedap.itch.io/lint-fuzzy-to-dust-bunny
